@@ -9,3 +9,4 @@ gute Nacht!      | спокойной ночи.
 auf Wiedersehen! | до свидания.
 bis morgen.      | до завтра.
 bis bald.        | до скорого.
+viel Glueck!     | счастливо!
