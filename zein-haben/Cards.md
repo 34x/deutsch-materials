@@ -21,3 +21,4 @@ die Studenten           | студенты
 die Lehrer              | учителя
 das Buch                | книга
 die Bücher              | книги
+Du **hast** mich        | у тебя есть я
