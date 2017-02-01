@@ -27,3 +27,10 @@ es hört     | оно слышит
 wir hören   | мы слышим
 ihr hört    | они слышат
 Sie hören   | Вы слышите
+der Tisch   | стол
+das Auto    | машина
+die Straße  | дорога
+schnell     | быстрый
+langsam     | медленный
+groß        | большой
+klein       | маленький
