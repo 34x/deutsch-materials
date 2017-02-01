@@ -18,3 +18,12 @@ es geht     | оно идет
 wir gehen   | мы идем
 ihr geht    | они идут
 Sie gehen   | Вы идете
+hören       | слышать
+ich höre    | я слышу
+du hörst    | ты слышишь
+er hört     | он слышит
+sie hört    | она слышит
+es hört     | оно слышит
+wir hören   | мы слышим
+ihr hört    | они слышат
+Sie hören   | Вы слышите
