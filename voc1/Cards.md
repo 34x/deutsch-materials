@@ -1,14 +1,14 @@
 &nbsp;      | &nbsp;
 ------------|-------
-sehen       | смотреть
-ich sehe    | я смотрю 
-du siehst   | ты смотришь
-er sieht    | он смотрит
-sie sieht   | она смотрит
-es siehst   | оно смотрит
-wir sehen   | мы смотрим
-ihr seht    | они смотрят
-Sie sehen   | Вы смотрите
+sehen       | смотреть; видеть
+ich sehe    | я смотрю; я вижу
+du siehst   | ты смотришь; ты видишь
+er sieht    | он смотрит; он видит
+sie sieht   | она смотрит; она видит
+es siehst   | оно смотрит; оно видит
+wir sehen   | мы смотрим; мы видим
+ihr seht    | они смотрят; они видят
+Sie sehen   | Вы смотрите; Вы видите
 gehen       | идти
 ich gehe    | я иду
 du gehst    | ты идешь
@@ -28,8 +28,8 @@ wir hören   | мы слышим
 ihr hört    | они слышат
 Sie hören   | Вы слышите
 der Tisch   | стол
-das Auto    | машина
-die Straße  | дорога
+das Auto; das Fahrzeug    | машина
+die Straße  | улица; дорога
 schnell     | быстрый
 langsam     | медленный
 groß        | большой
