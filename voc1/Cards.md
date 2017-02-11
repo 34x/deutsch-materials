@@ -28,9 +28,17 @@ wir hören   | мы слышим
 ihr hört    | они слышат
 Sie hören   | Вы слышите
 der Tisch   | стол
-das Auto; das Fahrzeug    | машина
+das Auto; das Fahrzeug    | машина; автомобиль
+die Musik   | музыка
 die Straße  | улица; дорога
 schnell     | быстрый
 langsam     | медленный
 groß        | большой
 klein       | маленький
+du siehst den kleinen Tisch | ты видишь маленький стол
+ich sehe einen großen Tisch | я вижу большую машину
+das Auto fährt auf der Straße | автомобиль едет по дороге; машина едет по дороге
+er hört laute Musik | он слушает громкую музыку; он слышит громкую музыку
+Sie hören leise Musik | Вы слышите тихую музыку; Вы слушаете тихую музыку
+Ich sehe nicht den Tisch | я не вижу стол
+
