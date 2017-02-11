@@ -1,7 +1,7 @@
 Немецкий                | Перевод
 ------------------------|--------
-ich **bin** ein Mann    | я - человек
-du **bist** ein Mann    | ты - человек
+ich **bin** ein Mann    | я - человек; я - мужчина
+du **bist** ein Mann    | ты - человек; ты - мужчина
 er **ist** ein Junge    | он - мальчик
 sie **ist** ein Mädchen | она - девочка
 es **ist** ein Wesen    | оно - существо
