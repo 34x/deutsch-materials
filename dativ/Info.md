@@ -6,7 +6,7 @@
 ------|----------
 wem   | кому/чему
 
-## Сколонение артикле
+## Сколонение артиклей
 
 &nbsp;    | Maskulinum |  Femininum    | Neutrum   | Мн.ч.
 ----------|------------|---------------|-----------|-----
@@ -17,10 +17,10 @@ Dative    | dem        | der           | dem       | den+n
 
 ### Примеры
 
-&nbsp;     | &nbsp;
-|----------|---------------------
-Der Vater | Ich helfe __dem Vater__
-Ein Freund  | Ich gebe __einem Freund__ das Buch
+&nbsp;     | &nbsp;                             | &nbsp;
+-----------|------------------------------------|---------------
+Der Vater  | Ich helfe __dem Vater__            | Я помогаю отцу
+Ein Freund | Ich gebe __einem Freund__ das Buch | Я даю другу книгу
 
 
 ## Глаголы, используемые c датив
@@ -41,10 +41,10 @@ gefallen  | нравится     | Die Ausstellung __gefällt den Besuchern__   
 
 Nominativ| &nbsp;   |		Dativ | &nbsp;	
 ----------|---------|---------|-------
-ich |	я|	mir |	мне
-du	|ты|	dir|	тебе
-er	|он|	ihm|	ему
-sie|	она|	ihr|	ей
+ich       |	я       |	mir     |	мне
+du	      |ты       |	dir     |	тебе
+er	      |он       |	ihm     |	ему
+sie       |	она     |	ihr     |	ей
 es|	оно	|ihm|	ему
 wir	|мы	|uns	|нам
 ihr	|вы	|euch|	вам
