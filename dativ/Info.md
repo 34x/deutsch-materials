@@ -8,11 +8,11 @@ wem   | кому/чему
 
 ## Сколонение артикле
 
-&nbsp;    | Maskulinum |  Femininum    | Neutrum   | &nbsp;
+&nbsp;    | Maskulinum |  Femininum    | Neutrum   | Мн.ч.
 ----------|------------|---------------|-----------|-----
 Nominativ | der        | die           | das       | die 
 &nbsp;    | ein        | eine          | ein       |
-Dative    | dem        | der           | dem       | den
+Dative    | dem        | der           | dem       | den+n
 &nbsp;    | einem      | einer         | einem     | +n
 
 ### Примеры
@@ -33,7 +33,7 @@ schmecken | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht | Р�
 zeigen    | показывать   | Er __zeigt dem Schüler__ das Bild. | Он показывает школьнику картину
 schenken  | дарить       | Die Eltern __schenken dem Sohn__ das Auto | Родители дарят сыну машину
 gehören   | принадлежать | Diese Bücher __gehören dem Großvater__ | Эти книги принадлежат дедушке
-gefallen  | нравиться    |
+gefallen  | нравится     | Die Ausstellung __gefält den Besuchern__ | Выставка нравится посетителям
 
 
 
