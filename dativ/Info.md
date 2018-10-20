@@ -40,11 +40,12 @@ zeigen    | показывать   | Er __zeigt dem Schüler__ das Bild.        
 schenken  | дарить       | Die Eltern __schenken dem Sohn__ das Auto     | Родители дарят сыну машину
 gehören   | принадлежать | Diese Bücher __gehören dem Großvater__        | Эти книги принадлежат дедушке
 gefallen  | нравится     | Die Ausstellung __gefällt den Besuchern__     | Выставка нравится посетителям
-
+.         |.             |.                                              |.
 ähneln    | быть похожим | Der Ample __ähnelt dem Papagei__              | Светофор похож на попугая
 absagen   | отказывать	 | Der Busfahrer __sagt den Menchen tragen ab__  | Водитель автобуса откызывается везти людей
 folgen    | следовать    | Die Polizistin __folgt dem Hund__             | Полицейский (ж.р.) следует за собакой
-gehorchen | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту              
+gehorchen | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту.             
+passieren | случаться    | Was __passiert mit dem Fenster__              | Что случилось с окном?
 
 
 ## Склонение личных местоимений
@@ -55,11 +56,11 @@ ich       |	я       |	mir     |	мне
 du	      |ты       |	dir     |	тебе
 er	      |он       |	ihm     |	ему
 sie       |	она     |	ihr     |	ей
-es|	оно	|ihm|	ему
-wir	|мы	|uns	|нам
-ihr	|вы	|euch|	вам
-sie	|они	|ihnen|	им
-Sie	|Вы	|Ihnen|	Вам
+es        |	оно	    |ihm      |	ему
+wir	      |мы	      |uns	    |нам
+ihr	      |вы	      |euch     |	вам
+sie	      |они	    |ihnen    |	им
+Sie	      |Вы     	|Ihnen    |	Вам
 
 ## Предлоги:
 
