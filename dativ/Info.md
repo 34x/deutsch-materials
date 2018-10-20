@@ -20,7 +20,8 @@ Dative    | dem        | der           | dem       | den
 &nbsp;     | &nbsp;
 ----------|---------------------
 Der Vater | Ich helfe __dem Vater__
-Ein Freund  | Ich gebe __einen Freund__ ein Buch
+Ein Freund  | Ich gebe __einem Freund__ das Buch
+
 
 
 
