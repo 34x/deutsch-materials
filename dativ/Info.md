@@ -31,8 +31,9 @@ helfen    | помогать     | Ich __helfe der Mutter__ | Я помогаю 
 geben     | давать       | Der Lehrer __gibt den Studenten__ die Aufgabe | Преподаватель дает студентам задание
 schmecken | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht | Ребенку не нравится суп (на вкус)
 zeigen    | показывать   | Er __zeigt dem Schüler__ das Bild. | Он показывает школьнику картину
-schenken  | дарить       | Die Eltern __shcenken dem Sohn__ das Auto | Родители дарят сыну машину
-gehören   | принадлежать | Diese Bücher __gehören dem Grossvater__
+schenken  | дарить       | Die Eltern __schenken dem Sohn__ das Auto | Родители дарят сыну машину
+gehören   | принадлежать | Diese Bücher __gehören dem Großvater__ | Эти книги принадлежат дедушке
+gefallen  | нравиться    |
 
 
 
