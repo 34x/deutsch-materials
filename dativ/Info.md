@@ -15,6 +15,14 @@ Nominativ | der        | die           | das       | die
 Dative    | dem        | der           | dem       | den+n
 &nbsp;    | einem      | einer         | einem     | +n
 
+Во множественном числе для определенного артикля, к концу существительного прибавляется **n**, неопределенного артикля нет, только добавляется **n** в конце:
+
+.|.
+-|-
+Der Lehrer gibt __den__ Studente**n** die Aufgabe | Преподаватель дает студентам задание
+?| пример для неопределенного артикля
+
+
 ### Примеры (тут, получается, не нужны примеры, так как их полно дальше для глаголов)
 
 &nbsp;     | &nbsp;                             | &nbsp;
@@ -31,22 +39,23 @@ Ein        |
 
 ## Глаголы, используемые c датив
 
-&nbsp;    | &nbsp;       | &nbsp;                                        | &nbsp;
-----------|--------------|-----------------------------------------------|------
-helfen    | помогать     | Ich __helfe der Mutter__                      | Я помогаю маме
-geben     | давать       | Der Lehrer __gibt den Studenten__ die Aufgabe | Преподаватель дает студентам задание
-schmecken | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht         | Ребенку не нравится суп (на вкус)
-zeigen    | показывать   | Er __zeigt dem Schüler__ das Bild.            | Он показывает школьнику картину
-schenken  | дарить       | Die Eltern __schenken dem Sohn__ das Auto     | Родители дарят сыну машину
-gehören   | принадлежать | Diese Bücher __gehören dem Großvater__        | Эти книги принадлежат дедушке
-gefallen  | нравится     | Die Ausstellung __gefällt den Besuchern__     | Выставка нравится посетителям
-.         |.             |.                                              |.
-ähneln    | быть похожим | Der Ample __ähnelt dem Papagei__              | Светофор похож на попугая
-absagen   | отказывать	 | Der Busfahrer __sagt den Menchen tragen ab__  | Водитель автобуса откызывается везти людей
-folgen    | следовать    | Die Polizistin __folgt dem Hund__             | Полицейский (ж.р.) следует за собакой
-gehorchen | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту.             
-passieren | случаться    | Was __passiert mit dem Fenster__              | Что случилось с окном?
-
+&nbsp;      | &nbsp;       | &nbsp;                                        | &nbsp;
+------------|--------------|-----------------------------------------------|------
+helfen      | помогать     | Ich __helfe der Mutter__                      | Я помогаю маме
+geben       | давать       | Der Lehrer __gibt den Studenten__ die Aufgabe | Преподаватель дает студентам задание
+schmecken   | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht         | Ребенку не нравится суп (на вкус)
+zeigen      | показывать   | Er __zeigt dem Schüler__ das Bild.            | Он показывает школьнику картину
+schenken    | дарить       | Die Eltern __schenken dem Sohn__ das Auto     | Родители дарят сыну машину
+gehören     | принадлежать | Diese Bücher __gehören dem Großvater__        | Эти книги принадлежат дедушке
+gefallen    | нравится     | Die Ausstellung __gefällt den Besuchern__     | Выставка нравится посетителям
+.           |.             |.                                              |.
+ähneln      | быть похожим | Der Ample __ähnelt dem Papagei__              | Светофор похож на попугая
+absagen     | отказывать	 | Der Busfahrer __sagt den Menchen tragen ab__  | Водитель автобуса откызывается везти людей
+folgen      | следовать    | Die Polizistin __folgt dem Hund__             | Полицейский (ж.р.) следует за собакой
+gehorchen   | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту.             
+passieren   | случаться    | Was __passiert mit dem Fenster__              | Что случилось с окном?
+glauben     | верить       | Sie __glaubt in den Gespensten__              | Она верит в привидения
+gratulieren | поздравлять  | Wir __gratulierent dem Mitarbeiter__ mit sein Geburstag | Мы поздравляем коллегу с его днем рождения
 
 ## Склонение личных местоимений
 
@@ -64,14 +73,14 @@ Sie	      |Вы     	|Ihnen    |	Вам
 
 ## Предлоги:
 
-&nbsp;    | &nbsp;
-----------|------------
-aus       | из
-bei       | у, при, во время, в (в значении работать в компании)
-mit       | с
+&nbsp;    | &nbsp;     | &nbsp;       |.
+----------|------------|--------------|----------
+aus       | из         |
+bei       | у, при, во время, в (в значении работать в компании) | Er arbeitet __bei einem Markt__ | Он работает на рынке
+mit       | с (вместе) | Ich fahre __mit dem Fahrrad__ | Я еду на велосипеде
 nach      | в или на (направление), после
-zu        | к, на, для
-von       | из
+zu        | к, на, для |
+von       | из         | Sie kommen __von der Apotheke__ | Они идут из аптеки
 seit      | с (момента времени)
 ausser    | за исключением
-gegenüber | напротив
+gegenüber | напротив       | Die Haltestelle __gegenuber dem Eingang__ | Остановка напротив входа
