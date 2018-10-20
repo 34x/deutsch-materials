@@ -30,7 +30,7 @@ Ein Freund  | Ich gebe __einem Freund__ das Buch
 helfen    | помогать     | Ich __helfe der Mutter__ | Я помогаю маме
 geben     | давать       |
 schmecken | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht | Ребенку не нравится суп (на вкус)
-zeigen    | показывать   |
+zeigen    | показывать   | Er __zeigt dem Schuler__ das Bild. | Он показывает школьнику картину
 
 
 
