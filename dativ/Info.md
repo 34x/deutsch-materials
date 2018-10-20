@@ -18,11 +18,16 @@ Dative    | dem        | der           | dem       | den
 ### Примеры
 
 &nbsp;     | &nbsp;
-----------|---------------------
+|----------|---------------------
 Der Vater | Ich helfe __dem Vater__
 Ein Freund  | Ich gebe __einem Freund__ das Buch
 
 
+## Глаголы, используемые в датив
+
+- helfen
+- geben
+- schmecken
 
 
 ## Склонение личных местоимений
