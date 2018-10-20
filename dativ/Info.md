@@ -26,11 +26,11 @@ Ein Freund  | Ich gebe __einem Freund__ das Buch
 ## Глаголы, используемые c датив
 
 &nbsp;    | &nbsp;       | &nbsp;  | &nbsp;
-----------|--------------|---------|------
-helfen    | помогать
-geben     | давать
-schmecken | быть на вкус | Die suppe schmeckt dem Kind nich | Ребенку не нравится суп (на вкус)
-zeigen    |
+----------|--------------|----------------------|------
+helfen    | помогать     | Ich __helfe der Mutter__ | Я помогаю маме
+geben     | давать       |
+schmecken | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht | Ребенку не нравится суп (на вкус)
+zeigen    | показывать   |
 
 
 
