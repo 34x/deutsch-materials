@@ -28,9 +28,10 @@ Ein Freund  | Ich gebe __einem Freund__ das Buch
 &nbsp;    | &nbsp;       | &nbsp;  | &nbsp;
 ----------|--------------|----------------------|------
 helfen    | помогать     | Ich __helfe der Mutter__ | Я помогаю маме
-geben     | давать       |
+geben     | давать       | Der Lehrer __gibt den Studenten__ die Aufgabe | Учительдает студентам задание
 schmecken | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht | Ребенку не нравится суп (на вкус)
-zeigen    | показывать   | Er __zeigt dem Schuler__ das Bild. | Он показывает школьнику картину
+zeigen    | показывать   | Er __zeigt dem Schüler__ das Bild. | Он показывает школьнику картину
+schenken  | дарить       | 
 
 
 
