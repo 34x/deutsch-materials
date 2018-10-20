@@ -23,11 +23,15 @@ Der Vater | Ich helfe __dem Vater__
 Ein Freund  | Ich gebe __einem Freund__ das Buch
 
 
-## Глаголы, используемые в датив
+## Глаголы, используемые c датив
 
-- helfen
-- geben
-- schmecken
+&nbsp;    | &nbsp;       | &nbsp;  | &nbsp;
+----------|--------------|---------|------
+helfen    | помогать
+geben     | давать
+schmecken | быть на вкус | Die suppe schmeckt dem Kind nich | Ребенку не нравится суп (на вкус)
+zeigen    |
+
 
 
 ## Склонение личных местоимений
