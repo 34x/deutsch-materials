@@ -82,5 +82,5 @@ nach      | в или на (направление), после
 zu        | к, на, для |
 von       | из         | Sie kommen __von der Apotheke__ | Они идут из аптеки
 seit      | с (момента времени)
-ausser    | за исключением
+ausser    | за исключением | Alles sind hier **ausser der Lehrerin** | Все здесь кроме учителя
 gegenüber | напротив       | Die Haltestelle __gegenuber dem Eingang__ | Остановка напротив входа
