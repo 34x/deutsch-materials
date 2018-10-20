@@ -25,13 +25,14 @@ Ein Freund  | Ich gebe __einem Freund__ das Buch
 
 ## Глаголы, используемые c датив
 
-&nbsp;    | &nbsp;       | &nbsp;  | &nbsp;
+&nbsp;    | &nbsp;       | &nbsp;               | &nbsp;
 ----------|--------------|----------------------|------
 helfen    | помогать     | Ich __helfe der Mutter__ | Я помогаю маме
 geben     | давать       | Der Lehrer __gibt den Studenten__ die Aufgabe | Преподаватель дает студентам задание
 schmecken | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht | Ребенку не нравится суп (на вкус)
 zeigen    | показывать   | Er __zeigt dem Schüler__ das Bild. | Он показывает школьнику картину
-schenken  | дарить       | 
+schenken  | дарить       | Die Eltern __shcenken dem Sohn__ das Auto | Родители дарят сыну машину
+gehören   | принадлежать | Diese Bücher __gehören dem Grossvater__
 
 
 
