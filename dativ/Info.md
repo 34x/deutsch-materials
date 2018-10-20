@@ -8,19 +8,25 @@ wem   | кому/чему
 
 ## Сколонение артиклей
 
-&nbsp;    | Maskulinum |  Femininum    | Neutrum   | Мн.ч.
+&nbsp;    | M.         |  F.           | N.        | P.
 ----------|------------|---------------|-----------|-----
 Nominativ | der        | die           | das       | die 
 &nbsp;    | ein        | eine          | ein       |
 Dative    | dem        | der           | dem       | den+n
 &nbsp;    | einem      | einer         | einem     | +n
 
-### Примеры
+### Примеры (тут, получается, не нужны примеры, так как их полно дальше для глаголов)
 
 &nbsp;     | &nbsp;                             | &nbsp;
 -----------|------------------------------------|---------------
 Der Vater  | Ich helfe __dem Vater__            | Я помогаю отцу
+Die        | 
+Das        |
+Die (Pl.)  |
 Ein Freund | Ich gebe __einem Freund__ das Buch | Я даю другу книгу
+Eine       |
+Ein        |
+
 
 
 ## Глаголы, используемые c датив
@@ -35,6 +41,10 @@ schenken  | дарить       | Die Eltern __schenken dem Sohn__ das Auto     |
 gehören   | принадлежать | Diese Bücher __gehören dem Großvater__        | Эти книги принадлежат дедушке
 gefallen  | нравится     | Die Ausstellung __gefällt den Besuchern__     | Выставка нравится посетителям
 
+ähneln    | быть похожим | Der Ample __ähnelt dem Papagei__              | Светофор похож на попугая
+absagen   | отказывать	 | Der Busfahrer __sagt den Menchen tragen ab__  | Водитель автобуса откызывается везти людей
+folgen    | следовать    | Die Polizistin __folgt dem Hund__             | Полицейский (ж.р.) следует за собакой
+gehorchen | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту              
 
 
 ## Склонение личных местоимений
