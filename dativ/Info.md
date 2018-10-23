@@ -48,28 +48,43 @@ zeigen      | показывать   | Er __zeigt dem Schüler__ das Bild.      
 schenken    | дарить       | Die Eltern __schenken dem Sohn__ das Auto     | Родители дарят сыну машину
 gehören     | принадлежать | Diese Bücher __gehören dem Großvater__        | Эти книги принадлежат дедушке
 gefallen    | нравится     | Die Ausstellung __gefällt den Besuchern__     | Выставка нравится посетителям
-.           |.             |.                                              |.
-ähneln      | быть похожим | Der Ample __ähnelt dem Papagei__              | Светофор похож на попугая
-absagen     | отказывать	 | Der Busfahrer __sagt den Menchen tragen ab__  | Водитель автобуса откызывается везти людей
+passen      | подходить, быть впору | Dieses Kleid **passt der Frau** | Это платье подходит женщине
+erzählen | рассказывать | Die Oma **erzählt den Enkeln** das Märchen | Бабушка рассказывает внукам сказку 
+bringen | приносить | Der Kellner bringt **dem Gast die Speisekarte** | Официант приносит посетителю меню
+ähneln      | быть похожим | Die Ampel __ähnelt dem Papagei__              | Светофор похож на попугая
 folgen      | следовать    | Die Polizistin __folgt dem Hund__             | Полицейский (ж.р.) следует за собакой
-gehorchen   | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту.             
-passieren   | случаться    | Was __passiert mit dem Fenster__              | Что случилось с окном?
-glauben     | верить       | Sie __glaubt in den Gespensten__              | Она верит в привидения
-gratulieren | поздравлять  | Wir __gratulierent dem Mitarbeiter__ mit sein Geburstag | Мы поздравляем коллегу с его днем рождения
+gehorchen   | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту.
 
-## Склонение личных местоимений
 
-Nominativ| &nbsp;   |		Dativ | &nbsp;	
-----------|---------|---------|-------
-ich       |	я       |	mir     |	мне
-du	      |ты       |	dir     |	тебе
-er	      |он       |	ihm     |	ему
-sie       |	она     |	ihr     |	ей
-es        |	оно	    |ihm      |	ему
-wir	      |мы	      |uns	    |нам
-ihr	      |вы	      |euch     |	вам
-sie	      |они	    |ihnen    |	им
-Sie	      |Вы     	|Ihnen    |	Вам
+## Склонение личных местоимений в Dativ
+
+Nominativ      | &nbsp;  | Dativ   | &nbsp;	
+---------------|---------|---------|---------
+**ich**       |	я       | **mir**     |	мне
+**du**	      | ты      | **dir**     |	тебе
+**er**	      | он      | **ihm**     |	ему
+**sie**       |	она     | **ihr**     |	ей
+**es**        |	оно	    | **ihm**     |	ему
+**wir**	      | мы	    | **uns**	  | нам
+**ihr**	      | вы	    | **euch**    |	вам
+**sie**	      | они	    | **ihnen**   |	им
+**Sie**	      | Вы     	| **Ihnen**   |	Вам
+
+.                           | . 
+--------------------------------|-----------------------------------
+Das Wetter gefällt **mir**      | Мне нравится погода.
+Und gefällt **dir** das Wetter? | А тебе нравится погода?
+Das Wetter gefällt **ihm** nicht| Ему не нравится погода.
+Das Wetter gefällt **ihr** auch nicht | Ей тоже не нравится погода.
+Aber das Wetter gefällt **ihm** (dem Kind)|Но погода нравится ему (ребенку, ср.р.).
+Das Wetter gefällt **uns** auch | Нам тоже нравится погода.
+Das Wetter gefällt **euch** nicht besonders | Вам не очень нравится погода.
+Das Wetter gefällt **ihnen** gar nicht | Им совсем не нравится погода.
+Warum gefällt **Ihnen** das Wetter nicht? | Почему Вам не нравится погода?
+
+
+
+
 
 ## Предлоги:
 
