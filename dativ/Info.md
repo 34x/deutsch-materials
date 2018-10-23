@@ -70,8 +70,8 @@ Nominativ      | &nbsp;  | Dativ   | &nbsp;
 **sie**	      | они	    | **ihnen**   |	им
 **Sie**	      | Вы     	| **Ihnen**   |	Вам
 
-.                           | . 
---------------------------------|-----------------------------------
+.                               | . 
+---------------------------------|-----------------------------------
 Das Wetter gefällt **mir**      | Мне нравится погода.
 Und gefällt **dir** das Wetter? | А тебе нравится погода?
 Das Wetter gefällt **ihm** nicht| Ему не нравится погода.
@@ -84,19 +84,17 @@ Warum gefällt **Ihnen** das Wetter nicht? | Почему Вам не нрави
 
 
 
-
-
-## Предлоги:
+## Предлоги, после которых существительное всегда стоит в дательном падеже:
 
 &nbsp;    | &nbsp;     | &nbsp;       |.
 ----------|------------|--------------|----------
-aus       | из         |
-bei       | у, при, во время, в (в значении работать в компании) | Er arbeitet __bei einem Markt__ | Он работает на рынке
-mit       | с (вместе) | Ich fahre __mit dem Fahrrad__ | Я еду на велосипеде
-nach      | в или на (направление), после
-zu        | к, на, для |
-von       | из         | Sie kommen __von der Apotheke__ | Они идут из аптеки
-seit      | с (момента времени)
-ausser    | за исключением | Alles sind hier **ausser der Lehrerin** | Все здесь кроме учителя
-gegenüber | напротив       | Die Haltestelle __gegenuber dem Eingang__ | Остановка напротив входа
+aus       | из         | Wir gehen **aus dem Park** | Мы идем из парка.
+bei (bei+dem = beim)   | у (у кого-то), при (ком-то, чем-то) | Ich bin **beim** Artz | Я у врача 
+mit       | с (вместе), на транспортном средстве | Ich fliege **mit dem Flugzeug** | Я лечу на самолете
+nach      | после | **Nach der Arbeit** gehe ich ins Museum. | После работы я иду в музей.
+zu (zu+dem=zum, zu+der=zur)| к (направление)| Ich fahre **zum Markt.** | Я еду на рынок.
+von (von+dem=vom)| с (с чего-то, откуда-то) | Ich gehe **vom Konzert** | Я иду с концерта
+seit      | с (с какого-то момента времени в прошлом по настоящее время) | Ich lerne Deutsch **seit einem Monat** | Я учу немецкий один месяц.
+außer    | кроме | Alle sind hier **außer der Lehrerin** | Все здесь кроме учительницы.
+gegenüber | напротив       | Die Haltestelle ist __gegenuber dem Eingang__ | Остановка напротив входа.
 
