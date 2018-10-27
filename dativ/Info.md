@@ -8,7 +8,7 @@ wem   | кому/чему
 
 ## Сколонение артиклей
 
-&nbsp;    | M.         |  F.           | N.        | P.
+&nbsp;    | Mask.      |  Fem.         | Neut.     | Pl.
 ----------|------------|---------------|-----------|-----
 Nominativ | der        | die           | das       | die 
 &nbsp;    | ein        | eine          | ein       |
@@ -58,17 +58,17 @@ gehorchen   | слушаться    | Der Elefant __gehorcht der Floete__       
 
 ## Склонение личных местоимений в Dativ
 
-Nominativ      | &nbsp;  | Dativ   | &nbsp;	
+Nominativ      | &nbsp;  | Dativ   | &nbsp; 
 ---------------|---------|---------|---------
-**ich**       |	я       | **mir**     |	мне
-**du**	      | ты      | **dir**     |	тебе
-**er**	      | он      | **ihm**     |	ему
-**sie**       |	она     | **ihr**     |	ей
-**es**        |	оно	    | **ihm**     |	ему
-**wir**	      | мы	    | **uns**	  | нам
-**ihr**	      | вы	    | **euch**    |	вам
-**sie**	      | они	    | **ihnen**   |	им
-**Sie**	      | Вы     	| **Ihnen**   |	Вам
+**ich**       | я       | **mir**     | мне
+**du**        | ты      | **dir**     | тебе
+**er**        | он      | **ihm**     | ему
+**sie**       | она     | **ihr**     | ей
+**es**        | оно     | **ihm**     | ему
+**wir**       | мы      | **uns**     | нам
+**ihr**       | вы      | **euch**    | вам
+**sie**       | они     | **ihnen**   | им
+**Sie**       | Вы      | **Ihnen**   | Вам
 
 .                               | . 
 ---------------------------------|-----------------------------------
@@ -97,4 +97,19 @@ von (von+dem=vom)| с (с чего-то, откуда-то) | Ich gehe **vom Kon
 seit      | с (с какого-то момента времени в прошлом по настоящее время) | Ich lerne Deutsch **seit einem Monat** | Я учу немецкий один месяц.
 außer    | кроме | Alle sind hier **außer der Lehrerin** | Все здесь кроме учительницы.
 gegenüber | напротив       | Die Haltestelle ist __gegenuber dem Eingang__ | Остановка напротив входа.
+
+> После предлогов, обозначающих место, отвечающих на вопрос **wo? (где?)**, существительное стоит в дательном падеже.
+ 
+.     |          .|.
+------|-----------|-
+in    | **Wo** ist das Buch? - Das Buch ist **in der Bibliothek**. | Где книга? - Книга в библиотеке.
+auf   | **Wo** ist die Pfanne? - Die Pfanne ist **auf dem Herd**. | Где сковорда? - Сковорода на плите.
+an    | **Wo** steht das Taxi? - Das Taxi steht **an der Ecke**. | Где стоит такси? Такси стоит на углу.
+vor   | **Wo** ist der Parkplatz? - Der Parkplatz ist **vor der Kneipe**. | Где парковка? - Парковка перед баром.
+hinter| **Wo** ist die Mülltonne? - Die Mülltonne ist **hinter dem Haus**. | Где мусорный контейнер? - Мусорный контейнер за домом.
+über  | **Wo** ist das Bild? - Das Bild ist **über dem Spiegel**. | Где картина? - Карина над зеркалом.
+unter | **Wo** ist der Pilz? - Der Pilz ist **unter dem Baum**. | Где гриб? - Гриб под деревом.
+neben | **Wo** ist die Imbissbude? - Die Imbissbude ist **neben der Apotheke**. | Где закусочная? - Закусочная радом с Аптекой.
+zwischen| **Wo** ist das Reisebüro? - Das Reisebüro ist **zwischen dem Kafee und der Post**. | Где турбюро? - Турбюро между кафе и почтой.
+
 
