@@ -97,4 +97,5 @@ um        | вокруг     | Die Вäume wachsen **um das** Haus.| Вокру�
  
 .     |          .|.
 ------|-----------|-
-in    | **Wo** ist das Buch? - Das Buch ist **in der Bibliothek**. | Где 
+auf    | **Wohin** legst du  das Buch? - Ich lege das Buch **auf den Tisch** | Куда ты кладешь книгу? - Я кладу книгу на стол.
+an |**Wohin** setzt du dich? - Ich setze mich **ans Fenster**. | Куда ты сядешь? - Я сяду у окна.
