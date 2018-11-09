@@ -7,6 +7,7 @@ status | part  | примечание
 50% | [Именительный падеж (Nominativ)](nominativ/Info.md)
 50% | [Винительный падеж (Akkusativ)](akkusativ/Info.md)
 80% | [Дательный падеж (Dativ)](dativ/Info.md)
+10% | [Сложная форма прошедшего времени (Perfect)](perfekt/Info.md)
 10% | [Притяжательные местоимения](pmestoimenia/Info.md)
 10% | [Глаголоы, существительные и прилагательные #1.](voc1/Cards.md)     | Нужны полные предложения
 0%  | [Сравнительные степени прилагательных.](prilagatelnye-1/Info.md)
