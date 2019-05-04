@@ -58,5 +58,5 @@ geschehen - происходить
 gelingen - удаваться
 misslingen - не удаваться 
 folgen - следовать
-
+ich *bin*  gegangen 
 
