@@ -2,15 +2,24 @@
 
 Местоимение, обозначающее принадлежность предмета.
 
-.     |.          | .
-------|-----------|-----------------------
-mein  | мой       | Das ist meine Tasche.
-dein  | твой      |
-sein  | его       |
-ihr   | её, их    |
-unser | наш       |
-euer  | ваш, ваше |
-Ihr   | Ваш       |
+## Singular
+
+Nominativ | Genetiv |.          | .
+----------|---------|-----------|-----------------------
+ich       | mein    | мой       | Das ist meine Tasche.
+du        | dein    | твой      | Das ist deine Schwester
+er        | sein    | его       | 
+sie       | ihr     | её        | Das ist ihr Kind
+
+## Plural
+
+Nominativ | Genetiv |.          | .
+----------|---------|-----------|-----------------------
+wir       | unser   | наш       |
+ihr       | euer    | ваш, ваше |
+sie       | ihr     | их        |
+Sie       | Ihr     | Ваш       |
+
 
 Местоимение меняет свою форму в зависимости от рода предмета и падежа, например: 
 
