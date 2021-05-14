@@ -10,6 +10,7 @@ ich       | mein    | мой       | Das ist meine Tasche.
 du        | dein    | твой      | Das ist deine Schwester
 er        | sein    | его       | 
 sie       | ihr     | её        | Das ist ihr Kind
+es        | sein    |           |
 
 ## Plural
 
