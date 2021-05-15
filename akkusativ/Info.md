@@ -42,13 +42,37 @@ Er kauft ein Auto                    | Он покупает машину.
 
 > Большинство глаголов в немецком языке - переходные.
 
-&nbsp;      | &nbsp;    | &nbsp;                       | &nbsp;
-----------|-----------|--------------------------------|------
-haben     | иметь     | Das Kind hat einen Luftballon. | У ребенка есть воздушный шар.
-brauchen  | нуждаться | Sie braucht eine Wohnung.      | Ей нужна квартира.
-es gibt   | иметься, быть в наличии | Es gibt einen Schlüssel hier | Тут есть ключ
-es gibt   | иметься, быть в наличии | Es gibt ein Regal dort | Там есть полка
-
+&nbsp;       | &nbsp;    | &nbsp;                       | &nbsp;
+-------------|-----------|--------------------------------|------
+haben        | иметь     | Das Kind hat einen Luftballon. | У ребенка есть воздушный шар.
+brauchen     | нуждаться | Sie braucht eine Wohnung.      | Ей нужна квартира.
+es gibt      | иметься, быть в наличии | Es gibt einen Schlüssel hier | Тут есть ключ
+es gibt      | иметься, быть в наличии | Es gibt ein Regal dort | Там есть полка
+abholen      | забирать  |
+achten       | обращать внимание, следить, смотреть,присматривать, уважать|
+anrufen      | звонить (по телефону), вызывать
+beschreiben  | описывать
+besuchen     | посещать
+bitten       | просить
+**brauchen** |
+einladen     |
+erkennen     |
+finden       |
+fragen       |
+hassen       |
+hören        |
+informieren  |
+kennen       |
+lieben       |
+schützen     |
+sehen        |
+suchen       |
+treffen      |
+überraschen  |
+unterstüzen  |
+vergessen    |
+vermeiden    |
+verstehen    |
 
 > После глаголов **haben**, **brauchen** и **es gibt** всегда используется **неопределенный артикль** в аккузатив.
 > 
