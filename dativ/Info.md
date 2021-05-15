@@ -39,21 +39,47 @@ Ein Kind      | Ich helfe **einem Kind**        | Я помогаю ребенк
 
 ## Глаголы, используемые c датив
 
-&nbsp;      | &nbsp;       | &nbsp;                                        | &nbsp;
-------------|--------------|-----------------------------------------------|------
-helfen      | помогать     | Ich __helfe der Mutter__                      | Я помогаю маме
-geben       | давать       | Der Lehrer __gibt den Studenten__ die Aufgabe | Преподаватель дает студентам задание
-schmecken   | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht         | Ребенку не нравится суп (на вкус)
-zeigen      | показывать   | Er __zeigt dem Schüler__ das Bild.            | Он показывает школьнику картину
-schenken    | дарить       | Die Eltern __schenken dem Sohn__ das Auto     | Родители дарят сыну машину
-gehören     | принадлежать | Diese Bücher __gehören dem Großvater__        | Эти книги принадлежат дедушке
-gefallen    | нравится     | Die Ausstellung __gefällt den Besuchern__     | Выставка нравится посетителям
-passen      | подходить, быть впору | Dieses Kleid **passt der Frau** | Это платье подходит женщине
-erzählen | рассказывать | Die Oma **erzählt den Enkeln** das Märchen | Бабушка рассказывает внукам сказку 
-bringen | приносить | Der Kellner bringt **dem Gast die Speisekarte** | Официант приносит посетителю меню
-ähneln      | быть похожим | Die Ampel __ähnelt dem Papagei__              | Светофор похож на попугая
-folgen      | следовать    | Die Polizistin __folgt dem Hund__             | Полицейский (ж.р.) следует за собакой
-gehorchen   | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту.
+&nbsp;        | &nbsp;       | &nbsp;                                        | &nbsp;
+--------------|--------------|-----------------------------------------------|------
+helfen        | помогать     | Ich __helfe der Mutter__                      | Я помогаю маме
+geben         | давать       | Der Lehrer __gibt den Studenten__ die Aufgabe | Преподаватель дает студентам задание
+schmecken     | быть на вкус | Die Suppe __schmeckt dem Kind__ nicht         | Ребенку не нравится суп (на вкус)
+zeigen        | показывать   | Er __zeigt dem Schüler__ das Bild.            | Он показывает школьнику картину
+schenken      | дарить       | Die Eltern __schenken dem Sohn__ das Auto     | Родители дарят сыну машину
+gehören       | принадлежать | Diese Bücher __gehören dem Großvater__        | Эти книги принадлежат дедушке
+gefallen      | нравится     | Die Ausstellung __gefällt den Besuchern__     | Выставка нравится посетителям
+passen        | подходить, быть впору | Dieses Kleid **passt der Frau** | Это платье подходит женщине
+erzählen      | рассказывать | Die Oma **erzählt den Enkeln** das Märchen | Бабушка рассказывает внукам сказку 
+bringen       | приносить | Der Kellner bringt **dem Gast die Speisekarte** | Официант приносит посетителю меню
+ähneln        | быть похожим | Die Ampel __ähnelt dem Papagei__              | Светофор похож на попугая
+folgen        | следовать    | Die Polizistin __folgt dem Hund__             | Полицейский (ж.р.) следует за собакой
+gehorchen     | слушаться    | Der Elefant __gehorcht der Floete__           | Слон слушается флейту.
+antworten     | отвечать
+bringen       | приносить
+danken        | благодарить
+empfehlen     | рекомендовать
+erklären      | объяснять
+erzählen      | повествовать
+geben         | давать 
+gefallen      | нравиться, приглянуться
+gehören       | принадлежать
+gelingen      | удаваться, посчастливиться
+glauben       | верить, думать, полагать
+gratulieren   | поздравлять 
+helfen        | помагать
+passen        | подходиться, годиться
+raten         | советовать
+sagen         | сказать, говорить
+schenken      | дарить
+schicken      | посылать
+schmecken     | пробовать на вкус
+schreiben     | писать, сочинять
+versprechen   | обещать
+vertrauen     | доверять
+widersprechen | возражать, противоречить
+wünschen      | желать, хотеть
+zeigen        | показывать
+
 
 
 ## Склонение личных местоимений в Dativ
