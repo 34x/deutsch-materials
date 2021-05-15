@@ -54,25 +54,25 @@ anrufen      | звонить (по телефону), вызывать
 beschreiben  | описывать
 besuchen     | посещать
 bitten       | просить
-**brauchen** |
-einladen     |
-erkennen     |
-finden       |
-fragen       |
-hassen       |
-hören        |
-informieren  |
-kennen       |
-lieben       |
-schützen     |
-sehen        |
-suchen       |
-treffen      |
-überraschen  |
-unterstüzen  |
-vergessen    |
-vermeiden    |
-verstehen    |
+**brauchen** | нуждаться
+einladen     | приглашать
+erkennen     | распознать, опознать
+finden       | найти, обнаружить
+fragen       | спрашивать
+hassen       | ненавидеть
+hören        | слушать
+informieren  | информировать
+kennen       | знать, узнавать
+lieben       | любить
+schützen     | защитить, обезапасить, оградить, охранять
+sehen        | видеть
+suchen       | искать
+treffen      | встречать
+überraschen  | удивить, удивлять
+unterstüzen  | поддерживать, оказывать помощь
+vergessen    | забыть, забывать
+vermeiden    | избегать
+verstehen    | понимать
 
 > После глаголов **haben**, **brauchen** и **es gibt** всегда используется **неопределенный артикль** в аккузатив.
 > 
